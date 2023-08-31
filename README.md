@@ -36,11 +36,10 @@ Também possuo habilidades em Java e algumas de suas bibliotecas, mas não é mi
 - **[Baby Diet](https://github.com/davidsantana06/baby-diet)** - Plataforma web completa voltada para a geração de etiquetas de dieta personalizadas para bebês.
 - **[Changes in Body Mass](https://github.com/davidsantana06/changes-in-body-mass-v3)** - Projeto centrado no acompanhamento de alunos fictícios recém-matriculados em uma academia, com foco nas mudanças em suas massas corporais.
 - **[Flex Object](https://github.com/davidsantana06/flex-object)** - Classe Python que possibilita a atribuição e remoção de atributos dinamicamente, além de permitir a serialização e leitura dos dados no formato JSON.
-- **[Tic Tac Toe](https://github.com/davidsantana06/tic-tac-toe)** - Uma versão simples e divertida do convencional jogo da velha, desenvolvido em Java com a biblioteca Swing.
+- **[Tic Tac Toe](https://github.com/davidsantana06/tic-tac-toe)** - Uma versão simples e divertida do convencional jogo da velha, desenvolvido em Java com as bibliotecas AWT e Swing.
 
 
 
 #
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santana-067278288/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Turles#7305)
