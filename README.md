@@ -1,8 +1,6 @@
-### Olá! Me chamo David Santana :wave:
+### Olá! Me chamo David Santana :sunny:
 
-Sou um estudante de Sistemas de Informação com sólidos conhecimentos em programação, especialmente em Python, JavaScript e Java 💻. 
-Tenho um compromisso firme com o trabalho e estou constantemente buscando otimizar os resultados 📈. 
-
+Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingressei na faculdade e me identifiquei com programação. Consolidei meus conhecimentos como desenvolvedor 🖥️, principalmente em Python, JavaScript e Java. Possuo compromisso com o trabalho e busco constantemente otimizar os resultados 📈.
 
 
 ### 💡 Habilidades
