@@ -1,6 +1,6 @@
 ### Olá! Me chamo David Santana :sunny:
 
-Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingressei na faculdade e me identifiquei com programação. Consolidei meus conhecimentos como desenvolvedor 🖥️, principalmente em Python, JavaScript e Java. Possuo compromisso com o trabalho e busco constantemente otimizar os resultados 📈.
+Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingressei na faculdade e me identifiquei com programação. Consolidei meus conhecimentos como desenvolvedor 🖥️, principalmente com as linguagens Python, JavaScript e Java. Possuo compromisso com o trabalho e busco constantemente otimizar os resultados 📈.
 
 
 ### 💡 Habilidades
