@@ -1,6 +1,8 @@
-### Olá! Me chamo David Santana :sunny:
+### Olá! Me chamo David Santana 👋
+- 🎓 Estou cursando de Sistemas de Informação no Instituto Federal da Bahia;
+- 💼 Atualmente, faço estágio como Engenheiro de Dados na Compass UOL;
+- 🚀 Meus hobbies favoritos são 💪 musculação e 🎮 jogos.
 
-Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingressei na faculdade e me identifiquei com programação. Consolidei meus conhecimentos como desenvolvedor 🖥️, principalmente com as linguagens Python, JavaScript e Java. Possuo compromisso com o trabalho e busco constantemente otimizar os resultados 📈.
 
 
 ### 💡 Habilidades
@@ -12,6 +14,7 @@ Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingress
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,14 +25,18 @@ Curso Sistemas de Informação no IFBA. Sempre curti tecnologia. Em 2021 ingress
 
 
 ### 📂 Alguns projetos
-- **[Baby Diet](https://github.com/davidsantana06/baby-diet)** - Plataforma web completa voltada para a geração de etiquetas de dieta personalizadas para bebês.
-- **[Changes in Body Mass](https://github.com/davidsantana06/changes-in-body-mass-v3)** - Projeto centrado no acompanhamento de alunos fictícios recém-matriculados em uma academia, com foco nas mudanças em suas massas corporais.
-- **[Collaborators CRUD](https://github.com/davidsantana06/collaboratos-crud)** - Aplicação web com divisão entre back-end e front-end, capaz de gerenciar os colaboradores de uma equipe e exibir graficamente suas taxas de participação.
-- **[Flex Object](https://github.com/davidsantana06/flex-object)** - Classe Python que possibilita a atribuição e remoção de atributos dinamicamente, além de permitir a serialização e leitura dos dados no formato JSON.
-- **[Tic Tac Toe](https://github.com/davidsantana06/tic-tac-toe)** - Uma versão simples e divertida do convencional jogo da velha, desenvolvido em Java com as bibliotecas AWT e Swing.
+
+[![Baby Diet](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=baby-diet)](https://github.com/davidsantana06/baby-diet)
+[![Collaborators CRUD](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=collaborators-crud)](https://github.com/davidsantana06/collaborators-crud)
+
+[![LinkeDS](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=linkeds)](https://github.com/davidsantana06/linkeds)
+[![Twin Chat Server](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=twin-chat-server)](https://github.com/davidsantana06/twin-chat-server)
+
+[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=tic-tac-toe)](https://github.com/davidsantana06/tic-tac-toe)
 
 
 
 #
 
+[![Resume](https://img.shields.io/badge/Resume-222B3C?style=for-the-badge&logo=todoist&logoColor=white)](https://davidsantana06.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santana-067278288/)
