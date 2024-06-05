@@ -28,10 +28,8 @@
 
 [![Baby Diet](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=baby-diet)](https://github.com/davidsantana06/baby-diet)
 [![Collaborators CRUD](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=collaborators-crud)](https://github.com/davidsantana06/collaborators-crud)
-
 [![LinkeDS](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=linkeds)](https://github.com/davidsantana06/linkeds)
 [![Twin Chat Server](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=twin-chat-server)](https://github.com/davidsantana06/twin-chat-server)
-
 [![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=tic-tac-toe)](https://github.com/davidsantana06/tic-tac-toe)
 
 
