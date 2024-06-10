@@ -1,5 +1,5 @@
 ### Olá! Me chamo David Santana 👋
-- 🎓 Estou cursando de Sistemas de Informação no Instituto Federal da Bahia;
+- 🎓 Estou cursando Sistemas de Informação no Instituto Federal da Bahia;
 - 💼 Atualmente, faço estágio como Engenheiro de Dados na Compass UOL;
 - 🚀 Meus hobbies favoritos são 💪 musculação e 🎮 jogos.
 
