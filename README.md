@@ -19,12 +19,16 @@
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
-### 📂 Alguns projetos
+### ⭐ Destaques do GitHub
 
 [![Baby Diet](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=baby-diet)](https://github.com/davidsantana06/baby-diet)
 [![Collaborators CRUD](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=collaborators-crud)](https://github.com/davidsantana06/collaborators-crud)
