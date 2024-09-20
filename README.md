@@ -1,9 +1,8 @@
 ### Olá! Me chamo David Santana 👋
+
 - 🎓 Estou cursando Sistemas de Informação no Instituto Federal da Bahia;
-- 💼 Atualmente, faço estágio como Engenheiro de Dados na Compass UOL;
+- 💼 Trabalho como Desenvolvedor Fullstack no SENAI CIMATEC;
 - 🚀 Meus hobbies favoritos são 💪 musculação e 🎮 jogos.
-
-
 
 ### 💡 Habilidades
 
@@ -26,17 +25,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### ⭐ Destaque
 
-
-### ⭐ Destaques do GitHub
-
-[![Baby Diet](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=baby-diet)](https://github.com/davidsantana06/baby-diet)
-[![Collaborators CRUD](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=collaborators-crud)](https://github.com/davidsantana06/collaborators-crud)
-[![LinkeDS](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=linkeds)](https://github.com/davidsantana06/linkeds)
-[![Twin Chat Server](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=twin-chat-server)](https://github.com/davidsantana06/twin-chat-server)
-[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=tic-tac-toe)](https://github.com/davidsantana06/tic-tac-toe)
-
-
+[![Sweet Server](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=sweet-server)](https://github.com/davidsantana06/sweet-server)
 
 #
 
