@@ -28,7 +28,7 @@
 
 ### ⭐ Destaque
 
-[![Sweet Server](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=sweet-server)](https://github.com/davidsantana06/sweet-server)
+[![Twin Trainer](https://github-readme-stats.vercel.app/api/pin/?username=davidsantana06&repo=twin-trainer)](https://github.com/davidsantana06/twin-trainer)
 
 #
 
