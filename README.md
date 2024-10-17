@@ -2,7 +2,7 @@
 
 - 🎓 Estou cursando Sistemas de Informação no Instituto Federal da Bahia;
 - 💼 Trabalho como Desenvolvedor Fullstack no SENAI CIMATEC;
-- 🚀 Meus hobbies favoritos são 💪 musculação e 🎮 jogos.
+- 🚀 Meus hobbies favoritos são 💪 treinar, 🎮 jogar e 📖 ler.
 
 ### 💡 Habilidades
 
