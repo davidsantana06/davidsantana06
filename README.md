@@ -1,24 +1,101 @@
-### Olá! Sou David Santana, desenvolvedor full-stack.
+<img
+  src="./assets/banner.png"
+  alt="David Santana — davidsantana06"
+  style="width: 100%"
+/>
 
-- :books: Estou cursando Sistemas de Informação no Instituto Federal da Bahia
-- :computer: Atualmente, desenvolvo aplicações web para a PMVC-SMS
+Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando aplicações web escaláveis, seguras e centradas na experiência do usuário. Atualmente, atuo principalmente em ecossistemas blockchain, especializando-me na linguagem Java.
 
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsantana06&layout=compact&langs_count=7&theme=dracula"/>
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/🔗-YouTube-FD0809?style=for-the-badge)](https://www.youtube.com/@davidsantana06)
+&nbsp;
+[![Website](https://img.shields.io/badge/🔗-Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?h=game)
+&nbsp;
 
-  <div style="display: inline_block; text-decoration: none;">
-    <br>
-    <img align="center" alt="David - Python" height="60" width="60" src="./images/python.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - Flask" height="60" width="60" src="./images/python-flask.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - Matplotlib" height="60" width="60" src="./images/python-matplotlib.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - Pandas" height="60" width="60" src="./images/python-pandas.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - SQLAlchemy" height="60" width="60" src="./images/python-sqlalchemy.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - MySQL" height="60" width="60" src="./images/mysql.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - JavaScript" height="60" width="60" src="./images/javascript.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - HTML5" height="60" width="60" src="./images/html.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - CSS3" height="60" width="60" src="./images/css.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - Bootstrap" height="60" width="60" src="./images/bootstrap.png" style="margin-bottom: 10px;">
-    <img align="center" alt="David - Java" height="60" width="60" src="./images/java.png" style="margin-bottom: 10px;">
-  </div>
-</div>
+### 🤖 Linguagens e Tecnologias
+
+<details>
+  <summary><b>JavaScript & Co.</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,nestjs,nextjs,react,jest"
+    alt="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
+    title="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>Python & Co.</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=python,flask,fastapi,streamlit,pytest"
+    alt="Python • Flask • FastAPI • Streamlit • Pytest"
+    title="Python • Flask • FastAPI • Streamlit • Pytest"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>Java & Co.</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=java,junit5"
+    alt="Java • JUnit"
+    title="Java • JUnit"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>HTML, CSS & Co.</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,bootstrap,bulma"
+    alt="HTML • CSS • Bootstrap • Bulma"
+    title="HTML • CSS • Bootstrap • Bulma"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>Database</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,postgresql,sqlite,mongodb"
+    alt="MySQL • Postgres • SQLite • MongoDB"
+    title="MySQL • Postgres • SQLite • MongoDB"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>DevOps</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=docker,git"
+    alt="Docker • Git"
+    title="Docker • Git"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>Cloud</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=aws,render"
+    alt="AWS • Render"
+    title="AWS • Render"
+    height="45"
+  />
+</details>
+
+### 📈 Estatísticas
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br"
+  alt="Estatísticas do GitHub"
+  title="Estatísticas do GitHub"
+/>
