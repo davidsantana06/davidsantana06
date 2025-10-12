@@ -6,7 +6,7 @@
 
 Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando aplicações web escaláveis, seguras e centradas na experiência do usuário. Atualmente, atuo principalmente em ecossistemas blockchain, especializando-me na linguagem Java.
 
-[![Website](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?h=game)
+[![Website](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?s=donate)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
