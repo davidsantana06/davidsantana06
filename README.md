@@ -6,11 +6,11 @@
 
 Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando aplicações web escaláveis, seguras e centradas na experiência do usuário. Atualmente, atuo principalmente em ecossistemas blockchain, especializando-me na linguagem Java.
 
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0882BD?labelColor=EAEAEA&style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/🔗-YouTube-FD0809?style=for-the-badge)](https://www.youtube.com/@davidsantana06)
+[![YouTube](https://img.shields.io/badge/🔗-YouTube-FD0809?labelColor=EAEAEA&style=for-the-badge)](https://www.youtube.com/@davidsantana06)
 &nbsp;
-[![Website](https://img.shields.io/badge/🔗-Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?h=game)
+[![Website](https://img.shields.io/badge/🔗-Website-2969E0?labelColor=EAEAEA&style=for-the-badge)](https://davidsantana06.github.io/?h=game)
 &nbsp;
 
 ### 🤖 Linguagens e Tecnologias
@@ -31,8 +31,8 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 
   <img
     src="https://skills.syvixor.com/api/icons?perline=15&i=python,flask,fastapi,streamlit,pytest"
-    alt="Python • Flask • FastAPI • Streamlit • Pytest"
-    title="Python • Flask • FastAPI • Streamlit • Pytest"
+    alt="Python • Flask • FastAPI • Streamlit • pytest"
+    title="Python • Flask • FastAPI • Streamlit • pytest"
     height="45"
   />
 </details>
@@ -63,9 +63,9 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
   <summary><b>Database</b></summary>
 
   <img
-    src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,postgresql,sqlite,mongodb"
-    alt="MySQL • Postgres • SQLite • MongoDB"
-    title="MySQL • Postgres • SQLite • MongoDB"
+    src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,sqlite,mongodb"
+    alt="MySQL • SQLite • MongoDB"
+    title="MySQL • SQLite • MongoDB"
     height="45"
   />
 </details>
@@ -95,7 +95,7 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 ### 📈 Estatísticas
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br"
-  alt="Estatísticas do GitHub"
-  title="Estatísticas do GitHub"
+  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&hide_border=true&theme=vue-dark&locale=pt-br"
+  alt="Estatísticas do GitHub de David Santana"
+  title="Estatísticas do GitHub de David Santana"
 />
