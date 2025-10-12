@@ -6,12 +6,11 @@
 
 Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando aplicações web escaláveis, seguras e centradas na experiência do usuário. Atualmente, atuo principalmente em ecossistemas blockchain, especializando-me na linguagem Java.
 
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0882BD?labelColor=EAEAEA&style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
+[![Website](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?h=game)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/🔗-YouTube-FD0809?labelColor=EAEAEA&style=for-the-badge)](https://www.youtube.com/@davidsantana06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
-[![Website](https://img.shields.io/badge/🔗-Website-2969E0?labelColor=EAEAEA&style=for-the-badge)](https://davidsantana06.github.io/?h=game)
-&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FD0809?style=for-the-badge)](https://www.youtube.com/@davidsantana06)
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -95,7 +94,7 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 ### 📈 Estatísticas
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&title_color=C1FF72&text_color=FFFFFF&icon_color=C1FF72&border_color=C1FF72&bg_color=212830&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&title_color=FFFFFF&text_color=ABB1BF&icon_color=81BDFD&bg_color=14161A&hide_border=true&locale=pt-br&border_radius=0"
   alt="Estatísticas do GitHub de David Santana"
   title="Estatísticas do GitHub de David Santana"
 />
