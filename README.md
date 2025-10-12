@@ -95,7 +95,7 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 ### 📈 Estatísticas
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&hide_border=true&theme=vue-dark&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&title_color=C1FF72&text_color=FFFFFF&icon_color=C1FF72&border_color=C1FF72&bg_color=212830&locale=pt-br"
   alt="Estatísticas do GitHub de David Santana"
   title="Estatísticas do GitHub de David Santana"
 />
