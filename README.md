@@ -4,7 +4,7 @@
   style="width: 100%"
 />
 
-Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando aplicações web escaláveis, seguras e centradas na experiência do usuário. Atualmente, atuo principalmente em ecossistemas blockchain, especializando-me na linguagem Java.
+Bacharel em Sistemas de Informação e Desenvolvedor Full Stack com 3+ anos de experiência em soluções web, atuando em backend, frontend, testes automatizados, bancos relacionais e não relacionais, CI/CD, cloud e metodologias ágeis. Sou especialista em Python, aplicando a linguagem em projetos de inovação, incluindo desenvolvimento backend e integração com LLMs.
 
 [![Website](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?s=donate)
 &nbsp;
@@ -15,23 +15,23 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 ### 🤖 Linguagens e Tecnologias
 
 <details>
-  <summary><b>JavaScript & Co.</b></summary>
-
-  <img
-    src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,nestjs,nextjs,react,jest"
-    alt="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
-    title="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
-    height="45"
-  />
-</details>
-
-<details>
   <summary><b>Python & Co.</b></summary>
 
   <img
     src="https://skills.syvixor.com/api/icons?perline=15&i=python,flask,fastapi,streamlit,pytest"
     alt="Python • Flask • FastAPI • Streamlit • pytest"
     title="Python • Flask • FastAPI • Streamlit • pytest"
+    height="45"
+  />
+</details>
+
+<details>
+  <summary><b>JavaScript & Co.</b></summary>
+
+  <img
+    src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,nestjs,nextjs,react,jest"
+    alt="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
+    title="JavaScript • TypeScript • NestJS • Next.js • React • Jest"
     height="45"
   />
 </details>
@@ -59,7 +59,7 @@ Desenvolvedor Full Stack com 3+ anos de experiência projetando e implementando 
 </details>
 
 <details>
-  <summary><b>Database</b></summary>
+  <summary><b>Databases</b></summary>
 
   <img
     src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,sqlite,mongodb"
