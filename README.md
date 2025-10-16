@@ -6,8 +6,6 @@
 
 **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com **3+ anos de experiência** em soluções web, atuando em backend, frontend, testes automatizados, bancos relacionais e não relacionais, CI/CD, cloud e metodologias ágeis. Sou especialista em **Python**, aplicando a linguagem em projetos de inovação, incluindo desenvolvimento backend e integração com LLMs.
 
-[![Website](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://davidsantana06.github.io/?s=donate)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FD0809?style=for-the-badge)](https://www.youtube.com/@davidsantana06)
