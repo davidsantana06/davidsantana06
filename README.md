@@ -4,7 +4,7 @@
   style="width: 100%"
 />
 
-Sou **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com mais de **3 anos de experiência** em soluções web. Atuo em backend e frontend, com domínio de testes automatizados, bancos relacionais e NoSQL, CI/CD e cloud. Tenho especialização em **Python**, aplicando a linguagem no desenvolvimento de APIs, automação e integração com LLMs em projetos de inovação.
+Sou **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com mais de **3 anos de experiência** em soluções web. Atuo em backend e frontend, com domínio de testes automatizados, bancos relacionais e NoSQL, CI/CD e cloud. Tenho especialização em **Python**, aplicando a linguagem no desenvolvimento de APIs, automação e integração com **LLMs** em projetos de inovação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
@@ -25,7 +25,7 @@ Sou **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com 
 ### 📈 Estatísticas
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&title_color=FFFFFF&text_color=ABB1BF&icon_color=2969E0&bg_color=14161A&hide_border=true&locale=pt-br&border_radius=0"
+  src="https://github-readme-stats.vercel.app/api?username=davidsantana06&show_icons=true&title_color=FFFFFF&text_color=95C8FE&icon_color=2969E0&bg_color=14161A&hide_border=true&locale=pt-br&border_radius=0"
   alt="Estatísticas do GitHub de David Santana"
   title="Estatísticas do GitHub de David Santana"
 />
