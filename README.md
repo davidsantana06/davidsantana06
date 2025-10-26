@@ -1,10 +1,10 @@
 <img
   src="./assets/banner.png"
-  alt="David Santana — davidsantana06"
+  alt="David Santana — Desenvolvedor Full Stack"
   style="width: 100%"
 />
 
-Sou **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com mais de **3 anos de experiência** em soluções web. Atuo em backend e frontend, com domínio de testes automatizados, bancos relacionais e NoSQL, CI/CD e cloud. Tenho especialização em **Python**, aplicando a linguagem no desenvolvimento de APIs, automação e integração com **LLMs** em projetos de inovação.
+**Desenvolvedor Full Stack** e **Bacharel em Sistemas de Informação** com mais de **3 anos de experiência** em soluções web. Atuo em backend e frontend, com domínio em automação, garantia de qualidade, bancos de dados relacionais e NoSQL, pipelines de CI/CD e cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 &nbsp;
@@ -14,7 +14,7 @@ Sou **Bacharel em Sistemas de Informação** e **Desenvolvedor Full Stack** com 
 
 | Área                 | Tecnologias                                                                                                                                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Python & Co.**     | <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,flask,fastapi,streamlit,pytest" alt="Python • Flask • FastAPI • Streamlit • pytest" title="Python • Flask • FastAPI • Streamlit • pytest" height="35" />                                  |
+| **Python & Co.**     | <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,flask,fastapi,streamlit,pandas,pytest" alt="Python • Flask • FastAPI • Streamlit • pandas • pytest" title="Python • Flask • FastAPI • Streamlit • pandas • pytest" height="35" />         |
 | **JavaScript & Co.** | <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,nestjs,nextjs,react,jest" alt="JavaScript • TypeScript • NestJS • Next.js • React • Jest" title="JavaScript • TypeScript • NestJS • Next.js • React • Jest" height="35" /> |
 | **Java & Co.**       | <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,junit5" alt="Java • JUnit" title="Java • JUnit" height="35" />                                                                                                                              |
 | **HTML, CSS & Co.**  | <img src="https://skills.syvixor.com/api/icons?perline=15&i=html,css3,bootstrap,bulma" alt="HTML • CSS • Bootstrap • Bulma" title="HTML • CSS • Bootstrap • Bulma" height="35" />                                                                            |
