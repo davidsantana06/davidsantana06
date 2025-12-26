@@ -7,8 +7,6 @@
 **Desenvolvedor full stack** e **bacharel em Sistemas de Informação**, com mais de **3 anos de atuação** em soluções web. Possuo forte domínio em backend e bancos de dados (SQL e NoSQL), além de experiência em frontend, automação, qualidade de software (QA) e cloud computing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FD0809?style=for-the-badge)](https://www.youtube.com/@davidsantana06)
 
 ### 🤖 Áreas de Conhecimento
 
