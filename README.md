@@ -6,8 +6,8 @@
 
 **Full stack developer** and **bachelor in Information Systems**, with over **3 years of experience** building web solutions. Strong expertise in backend development and databases (SQL and NoSQL), along with experience in frontend, automation, software quality (QA), and cloud computing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-213C51?style=for-the-badge)](https://davidsantana06.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/davidsantana06/)
 
 ### 💻 Core Competencies
 
