@@ -4,7 +4,7 @@
   style="width: 100%"
 />
 
-**Full stack developer** and **bachelor in Information Systems**, with over **3 years of experience** building web solutions. Strong expertise in backend development and databases (SQL and NoSQL), along with experience in frontend, automation, software quality (QA), and cloud computing.
+**Full stack developer** and **bachelor in Information Systems**, with over **4 years of experience** building web solutions. Strong expertise in backend development and databases (SQL and NoSQL), along with experience in frontend, automation, software quality (QA), and cloud computing.
 
 ### 💻 Core Competencies
 
